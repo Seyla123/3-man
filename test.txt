@@ -1,2 +1,2 @@
-N=1 
-return n +1 
+N=0 
+return n +2 
